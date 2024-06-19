@@ -12,4 +12,4 @@ Intensive course for learning Java.
 
 5. Day04: JAR. Creating library archives and using external libraries (JCommander and JColor).
 
-6. Day05: SQL and JDBC.Using the key mechanisms to work with PostgreSQL DBMS via JDBC.
+6. Day05: SQL and JDBC. Using the key mechanisms to work with PostgreSQL DBMS via JDBC.
