@@ -1,2 +1,15 @@
-# java-bootcamp-school-21
-Intensive course for learning Java: OOP, File IO, Threads, JAR, Maven.
+# Java bootcamp School 21
+
+Intensive course for learning Java.
+
+1. Day00: Structures and arrays. The basics of solving both trivial and more challenging business tasks using basic Java language constructs.
+
+2. Day01: OOP and Collections. A full-scale money transfer application using patterns Singleton and Facade.
+
+3. Day02: IO and Files. Reading file signatures and creating file manager application.
+
+4. Day03: Threads. Creating an application that optimizes downloading files by URL through multithreading. Producer/Consumer pattern.
+
+5. Day04: JAR. Creating library archives and using external libraries (JCommander and JColor).
+
+6. Day05: SQL and JDBC.Using the key mechanisms to work with PostgreSQL DBMS via JDBC.
