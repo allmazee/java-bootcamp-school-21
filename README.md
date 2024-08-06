@@ -13,3 +13,11 @@ Intensive course for learning Java.
 5. Day04: JAR. Creating library archives and using external libraries (JCommander and JColor).
 
 6. Day05: SQL and JDBC. Using the key mechanisms to work with PostgreSQL DBMS via JDBC.
+
+7. Day06: JUnit and Mockito. The basics of module and integration testing.
+
+8. Day07: Reflection API, annotation proccesor, ORM.
+
+9. Day08: Spring framework.
+
+
