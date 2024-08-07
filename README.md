@@ -18,6 +18,8 @@ Intensive course for learning Java.
 
 8. Day07: Reflection API, annotation proccesor, ORM.
 
-9. Day08: Spring framework.
+9. Day08: Spring framework. DI/IoC patterns, annotations, JdbcTemplate.
+
+10. 
 
 
