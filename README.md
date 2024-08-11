@@ -20,6 +20,6 @@ Intensive course for learning Java.
 
 9. Day08: Spring framework. DI/IoC patterns, annotations, JdbcTemplate.
 
-10. Day09: Java—Sockets API.
+10. Day09: Java—Sockets API. The basic mechanism of a client/server application.
 
 
